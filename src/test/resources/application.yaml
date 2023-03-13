@@ -1,0 +1,10 @@
+
+
+temperature:
+  service:
+    url: http://localhost/
+    device:
+      id: xxxxxxxxxxxxxxxxx
+spring:
+  main:
+    allow-bean-definition-overriding: true
